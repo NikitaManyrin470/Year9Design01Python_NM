@@ -1,0 +1,6 @@
+print("ya yeet baljeet")
+print("hi my name is steve-o and this is jackass")
+print("tay kief f these neighbours up")
+print("a couple print commands el em ay o")
+print("yall ever seen a foot with 4 toes")
+print("if young metro doesnt trust you i will be forced to resolve to violent actions, resulting in a possible gunshot wound in your lower abdomen")
