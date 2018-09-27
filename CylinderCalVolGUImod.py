@@ -1,6 +1,8 @@
 import tkinter as tk
 import math
 
+print("***Welcome To My Cyldinder Volume Calculator***")
+
 def submit():
 
 	print("Submit pressed")
@@ -11,9 +13,10 @@ def submit():
 	v = round(v,3)
 
 	output.config(state="normal")
-	
+	OutputValue = "Given\nradius:"+str(r)+" units\nheight: "+str(h)+" units\nThe Volume Is: "+str(v)+" units cubed\n\n "
+	output.delete(1.0,tk.END)
 
-	output.insert(tk.INSERT,v)
+	output.insert(tk.INSERT, OutputValue)
 	output.config(state="disable")
 
 root = tk.Tk()
