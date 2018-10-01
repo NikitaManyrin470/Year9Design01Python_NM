@@ -36,6 +36,5 @@ for i in range(len(str)-1,-1,-1):
 	print(str[i])
 
 print("****Print Every Second LEtter in Str Start at Index 0***")
-for i in range(len(str[1])1,1):
+for i in range(0,(len(str),2):
 	print(str[i])
-	
